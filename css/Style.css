@@ -78,6 +78,8 @@ p{font-family: 'georgia' serif;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;}
+  .greeting {
+    text-align: center;}
 
 .video-container {
   display: flex;
